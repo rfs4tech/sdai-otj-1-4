@@ -20,3 +20,20 @@ body {
     background-color: #ddd;
     color: black;
 }
+
+#quarterly-menu {
+    width: 800px;
+    margin: 0 auto;
+    text-align: center;
+
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+
+}
+
+p {
+    padding: 5px;
+    line-height: 1.9em;
+}
