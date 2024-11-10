@@ -37,3 +37,16 @@ p {
     padding: 5px;
     line-height: 1.9em;
 }
+
+.dev-favorites {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap; /* Ensures responsiveness */
+    margin-top: 20px;
+}
+
+.dev-favorites img {
+    width: 30%;
+    height: auto;
+    margin: 10px;
+}
